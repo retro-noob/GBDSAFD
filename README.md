@@ -7,7 +7,7 @@ if ecerything set up correctly you will get ----Server running at http://localho
 open index.html in a live server to add some data make ssure to press save button for saving it  .
 open fetch.html in a live server to fetch the data  .
 
-8888BASIC INFO----
+*** BASIC INFO----
 The server handles saving and fetching data using endpoints  .
 The client-side scripts dynamically create tables, collect data, and send it to the server  .
 The fetched data is displayed in dynamically created tables on the fetch page  .
