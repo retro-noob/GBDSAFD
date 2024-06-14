@@ -1,0 +1,17 @@
+[
+  {
+    "rows": [
+      {
+        "numPassengers": "6",
+        "numChildren": "7",
+        "rooms": "8",
+        "extraBeds": "9",
+        "cost": "87",
+        "netCost": "774.30",
+        "gstPercentage": "67",
+        "gstAmount": "518.78",
+        "totalAmount": "1293.08"
+      }
+    ]
+  }
+]
